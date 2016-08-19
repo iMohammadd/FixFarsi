@@ -1,7 +1,7 @@
 <?php
 namespace FixFarsi;
 
-class FixFarsi {
+class Fix {
 	public static function fix($string) {
 		$search = ['ك','ي'];
 
