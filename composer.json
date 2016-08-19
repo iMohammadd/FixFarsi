@@ -1,8 +1,8 @@
 {
     "name" : "imohammadd/fixfarsi",
     "description" : "fix Farsi string from Arabic Keyboard",
-    "license" : "GNU/GPL",
+    "license" : "MIT",
     "require" : {
-        "php" : ">=5.4.0"
+        "php" : "^5.4.0"
     }
 }
